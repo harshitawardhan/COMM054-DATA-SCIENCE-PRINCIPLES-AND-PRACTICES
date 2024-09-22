@@ -1,4 +1,4 @@
-**E. coli Protein Localisation Classification**
+# E. coli Protein Localisation Classification
 
 **Overview**
 This project involves building and evaluating machine learning models to predict the location of proteins within the bacterium Escherichia coli. The task is to classify proteins into one of two classes based on five features using Naïve Bayes and Logistic Regression models. The data for this project is sourced from the UCI Machine Learning Repository.
